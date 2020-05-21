@@ -1,8 +1,3 @@
-console.log('Client side javascript is loaded!')
-
-
-
-
 
 const wheatherForm = document.querySelector('form')
 const search = document.querySelector('input')
